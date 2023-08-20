@@ -15,7 +15,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro1,
-        title: "Ecommerce Web design",
+        title: "To-Do List Website",
         text: "Emmet30j fljvv  xablc   cjDvlnn lorem45 claada axdvacs",
         view: "linkedin.com"
     }
