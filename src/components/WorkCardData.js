@@ -10,13 +10,13 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Image Data Analysis",
-        text: "Emmet30j fljvv  xablc   cjDvlnn lorem45 claada axdvacs",
+        text: "Revolutionary image analysis project utilizing AI. Extracts insights, detects patterns, and provides valuable data for industries, research, and innovation.",
         view: "linkedin.com"
     },
     {
         imgsrc: pro1,
         title: "To-Do List Website",
-        text: "Emmet30j fljvv  xablc   cjDvlnn lorem45 claada axdvacs",
+        text: "Streamline tasks with our user-friendly to-do list website. Prioritize, collaborate, and track progress seamlessly, enhancing your productivity and organization.",
         view: "linkedin.com"
     }
 ]
