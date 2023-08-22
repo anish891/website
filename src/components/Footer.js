@@ -3,6 +3,7 @@ import "./Footer.css";
 import React from 'react'
 
 import {FaHome, FaGithub, FaLinkedin, FaMailBulk, FaPhone, FaInstagram} from 'react-icons/fa';
+import { NavLink } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -29,7 +30,10 @@ const Footer = () => {
                 <h4>About me</h4>
                 <p>This is Anish Tejwnai. I enjoy coding and working on new projects and taking on challenges.</p>
                 <div className="social">
+                    <NavLink to='https://github.com/anish891'>
                     <FaGithub size={30} style={{color:"#fff", marginRight:"1rem" }}/>
+                    </NavLink>
+                        <FaGithub size={30} style={{color:"#fff", marginRight:"1rem" }}/>
                     <FaInstagram size={30} style={{color:"#fff", marginRight:"1rem" }}/>
                     <FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem" }}/>
                 </div>
