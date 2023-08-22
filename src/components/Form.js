@@ -1,4 +1,4 @@
-import { sendForm } from "@emailjs/browser";
+
 import "./Form.css";
 
 import React from 'react'
