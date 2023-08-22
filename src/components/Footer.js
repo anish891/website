@@ -33,9 +33,15 @@ const Footer = () => {
                     <NavLink to='https://github.com/anish891'>
                     <FaGithub size={30} style={{color:"#fff", marginRight:"1rem" }}/>
                     </NavLink>
-                        <FaGithub size={30} style={{color:"#fff", marginRight:"1rem" }}/>
+                    
+                    <NavLink to='https://www.instagram.com/anish_tejwani511'>
                     <FaInstagram size={30} style={{color:"#fff", marginRight:"1rem" }}/>
+                    </NavLink>
+                    
+                    <NavLink to='https://www.linkedin.com/in/anishtejwani/'>
                     <FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem" }}/>
+                    </NavLink>
+                    
                 </div>
             </div>
         </div>
