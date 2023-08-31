@@ -11,6 +11,7 @@ const Project = () => {
       <Navbar />
       <HeroImage2 heading="PROJECTS." text="Some of my most recent work" />
       <Work />
+      <PricingCard />
       <Footer />
     </div>
   )
