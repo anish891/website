@@ -1,8 +1,9 @@
 import pro1 from "../assets/intro-bg.jpg";
+import pro2 from "../assets/img.jpg";
 
 const ProjectCardData = [
     {
-        imgsrc: pro1,
+        imgsrc: pro2,
         title: "My Notes Application using Flutter",
         text: "Effortlessly manage notes with our intuitive Flutter app, featuring rich formatting, cloud sync, and seamless cross-device accessibility for ultimate productivity.",
         view: "https://github.com/anish891/mynotes"
