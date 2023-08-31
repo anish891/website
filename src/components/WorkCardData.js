@@ -1,5 +1,7 @@
 import pro1 from "../assets/intro-bg.jpg";
 import pro2 from "../assets/img.jpg";
+import pro3 from "../assets/img3.jpg";
+
 
 const ProjectCardData = [
     {
@@ -15,7 +17,7 @@ const ProjectCardData = [
         view: "linkedin.com"
     },
     {
-        imgsrc: pro1,
+        imgsrc: pro3,
         title: "To-Do List Website",
         text: "Streamline tasks with our user-friendly to-do list website. Prioritize, collaborate, and track progress seamlessly, enhancing your productivity and organization.",
         view: "linkedin.com"
