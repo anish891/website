@@ -9,7 +9,7 @@ const AboutContent = () => {
     <div className="about">
         <div className="left">
             <h1>Who AM I?</h1>
-            <p>I am Anish Tejwani who is always eager to take on new challenges and expand my skillset. My profile serves as a testament to my passion for Web and AI/ML, showcasing my ability to tackle complex problems and deliver high-quality solutions. I invite you to explore my repositories and witness firsthand my commitment to excellence in these areas.</p>
+            <p>I am Anish Tejwani who is always eager to take on new challenges and expand my skillset.</p>
             <Link to="/contact">
                 <button className="btn">Contact</button>
             </Link>
